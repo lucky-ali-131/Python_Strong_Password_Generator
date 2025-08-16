@@ -8,6 +8,7 @@ Feel free for use , No copyright
 
 
 
-Screenshots:
+Screenshot:
+
 <img width="1840" height="989" alt="image" src="https://github.com/user-attachments/assets/65434178-f9d4-4dbf-8224-b2fb0be75c4c" />
 
