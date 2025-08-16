@@ -24,4 +24,5 @@ def create_pw(pw_length=16):
 
 
 if __name__ == '__main__':
-   print(create_pw())
+
+   print("\n",create_pw()"\n")
